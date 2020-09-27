@@ -1,3 +1,5 @@
+*Если не открывает файл, то перейти по [ссылке](https://nbviewer.jupyter.org/github/kotl68/introductions/blob/master/%D1%81ost_optimization/optimization.ipynb)*
+
 # Оптимизация маркетинговых затрат в Яндекс.Афише
 ## Задача проекта  
 
