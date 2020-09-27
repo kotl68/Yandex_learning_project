@@ -1,4 +1,4 @@
-*Большой размер файла по этому лучше перейти по [ссылка](https://nbviewer.jupyter.org/github/kotl68/introductions/blob/master/market_research/research.ipynb)*
+*Если не открывает файл, то перейти по [ссылке](https://nbviewer.jupyter.org/github/kotl68/introductions/blob/master/market_research/research.ipynb)*
 
 # Исследования рынка общепита в Москве для принятия решения об открытии нового заведения
 ## Задача проекта  
