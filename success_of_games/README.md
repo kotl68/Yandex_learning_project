@@ -1,4 +1,4 @@
-*Если не открывает файл, то перейти по [ссылке](https://nbviewer.jupyter.org/github/kotl68/introductions/blob/master/success_of_games/Games.ipynb)
+*Если не открывает файл, то перейти по [ссылке](https://nbviewer.jupyter.org/github/kotl68/introductions/blob/master/success_of_games/Games.ipynb)*
 
 # Изучение закономерностей, определяющих успешность игр
 ## Задача проекта  
