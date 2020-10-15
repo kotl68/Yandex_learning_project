@@ -1,3 +1,5 @@
+*Если не открывает файл, то перейти по [ссылке](https://nbviewer.jupyter.org/github/kotl68/introductions/blob/master/model/model.ipynb)*
+
 # Модель монетизации
 ## Задача проекта  
 
