@@ -1,3 +1,5 @@
+*Если не открывает файл, то перейти по [ссылке](https://nbviewer.jupyter.org/github/kotl68/introductions/blob/master/hypothesis_testing/testing.ipynb)*
+
 # Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста
 ## Задача проекта  
 
