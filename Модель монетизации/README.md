@@ -1,4 +1,4 @@
-*Если не открывает файл, то перейти по [ссылке](https://nbviewer.jupyter.org/github/kotl68/introductions/blob/master/model/model.ipynb)*
+*Если не открывает файл, то перейти по [ссылке](https://nbviewer.jupyter.org/github/kotl68/Yandex_learning_project/blob/master/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%20%D0%BC%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/model.ipynb)*
 
 # Модель монетизации
 ## Задача проекта  
